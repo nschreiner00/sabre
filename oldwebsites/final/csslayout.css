@@ -1,0 +1,313 @@
+@charset "utf-8";
+#container {
+	background-position: top;
+	padding: 0px;
+	height: 768px;
+	width: 1024px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#logo {
+	background-image: url(newtemplate/images/NEWTEMPLATE00_02.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 109px;
+	width: 108px;
+}
+#titlebar {
+	background-image: url(newtemplate/images/NEWTEMPLATE00_03.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 72px;
+	width: 916px;
+	vertical-align: top;
+}
+#titletext {
+	margin: 5px;
+	padding: 0px;
+	float: left;
+	vertical-align: top;
+	height: 72px;
+}
+
+#menu {
+	background-image: none;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 37px;
+	width: 916px;
+}
+#content {
+	background-image: url(newtemplate/images/NEWTEMPLATE00_05.jpg);
+	background-repeat: no-repeat;
+	padding: 0px;
+	clear: both;
+	float: left;
+	height: 741px;
+	width: 1024px;
+	margin: 0px;
+}
+body {
+	background-color: #000;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+}
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	color: #0066cc;
+	font-size: 39px;
+	vertical-align: top;
+}
+#indexleft {
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	height: 500px;
+	width: 235px;
+}
+#scitopleft {
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	width: 400px;
+}
+#scitopright {
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	width: 400px;
+}
+#scitop {
+	text-align: center;
+	height: auto;
+	width: 1024px;
+}
+
+
+
+h2 {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #0066cc;
+	font-size: 28px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+p {
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: "Comic Sans MS", cursive;
+}
+#gif {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	vertical-align: top;
+}
+
+#indexright {
+	margin: 5px;
+	padding: 5px;
+	float: none;
+	width: 1020px;
+	height: auto;
+}
+h4 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #4AB7FF;
+	font-size: 18px;
+	text-align: center;
+}
+
+#movietopimage {
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	height: 260px;
+	width: 307px;
+}
+#vgtopimage {
+	margin: 5px;
+	padding: 5px;
+	height: auto;
+	width: 307px;
+	float: left;
+}
+#vgtoptext {
+	margin: 5px;
+	padding: 5px;
+	height: auto;
+	width: 668px;
+	float: right;
+}
+
+
+#movietoptext {
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	height: auto;
+	width: 668px;
+}
+#moviebottomimage {
+	margin: 5px;
+	padding: 5px;
+	clear: both;
+	float: left;
+	width: 307px;
+	text-align: center;
+}
+#littop {
+	margin: 1px;
+	width: 999px;
+	float: left;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #4AB7FF;
+	margin: 0px;
+	padding: 0px;
+}
+#littitle {
+	height: 72px;
+	width: auto;
+	text-align: left;
+	vertical-align: top;
+	float: left;
+}
+#musictop {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: 1024px;
+}
+#scibody {
+	float: left;
+	width: 1000px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#musiccontentleft {
+	margin: 4px;
+	padding: 3px;
+	float: left;
+	width: 490px;
+}
+#musiccontentright {
+	margin: 4px;
+	padding: 3px;
+	float: right;
+	width: 490px;
+}
+#tvlefttop {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: auto;
+}
+#tvtoptext {
+	margin: 5px;
+	padding: 5px;
+	float: right;
+	width: 668px;
+}
+#tvbottomtext {
+	background-image: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#tvbottomleft {
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+	float: left;
+	width: 307px;
+}
+#tvbottompic {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+#rockettop {
+	text-align: center;
+	float: none;
+	width: 1024px;
+	margin: 0px;
+	padding: 0px;
+}
+#rockettoprow {
+	text-align: center;
+	float: none;
+	width: 1024px;
+	margin: 0px;
+	padding: 0px;
+}
+#rocketmiddlerow {
+	text-align: center;
+	float: none;
+	width: 1024px;
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+}
+#rocketbottomrow {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: 1024px;
+}
+#litcontent {
+	margin: 3px;
+	padding: 3px;
+}
+p2 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 12px;
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+#plottwistbody {
+	margin: 5px;
+	padding: 5px;
+	height: auto;
+	width: 1024px;
+	text-align: center;
+	float: none;
+}
+#rocketcontainer {
+	text-align: center;
+	padding: 0px;
+	width: 1024px;
+	height: auto;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+a {
+	color: #03F;
+}

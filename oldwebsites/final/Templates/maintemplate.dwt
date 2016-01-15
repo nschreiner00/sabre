@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../csslayout.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <div id="logo"></div>
+  <div id="titlebar"><!-- TemplateBeginEditable name="title" --><!-- TemplateEndEditable --></div>
+  <div id="menu"><img src="../newtemplate/images/NEWTEMPLATE00_04.png" width="916" height="37" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="4,3,109,35" href="../index.html" alt="home" />
+      <area shape="rect" coords="130,4,235,32" href="../lit.html" alt="books" />
+      <area shape="rect" coords="258,4,363,34" href="../music.html" />
+      <area shape="rect" coords="383,1,491,34" href="../films.html" alt="movies" />
+      <area shape="rect" coords="514,4,618,33" href="../videogames.html" alt="video games" />
+      <area shape="rect" coords="639,2,746,34" href="../tv.html" alt="tv" />
+      <area shape="rect" coords="768,3,871,32" href="../sciphil.html" alt="science and philosophy" />
+    </map>
+  </div>
+  
+  <div id="content"><!-- TemplateBeginEditable name="maincontent" --><!-- TemplateEndEditable --></div>
+  
+  
+  
+</div>
+</body>
+</html>
